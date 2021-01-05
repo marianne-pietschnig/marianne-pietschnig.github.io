@@ -3,18 +3,23 @@ title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+author_profile: true
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+# Python Programming for Natural Science Students (2018/2019)
 
-Heading 1
-======
+* Postgraduate Teaching Assistant 
+* Assisting undergraduate students with learning Python
+* Short lecture 
+* Marking of coursework
 
-Heading 2
-======
+# Mathematics of Climate Change (2017/2018)
 
-Heading 3
-======
+* Postgraduate Teaching Assistant
+* Marking of coursework 
+
+# Introduction to Physics (2012)
+
+* Tutor 
+* Assisting students in solving problem sets
+* Marking of coursework 
