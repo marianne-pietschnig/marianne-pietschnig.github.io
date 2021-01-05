@@ -21,11 +21,25 @@ Work experience
 * Researcher at the University of Oslo (current)
   * Cloud and aerosol feedbacks and their influence on climate change projections
   
-* Postdoctoral Research Fellow at the University of Exeter (08/2020 - 01/2021)
+* Postdoctoral Research Fellow at the University of Exeter (2020, 6 months)
   * Impact of land-surface hydrology on the South East Asian monsoon
 
 * Internship at the Austrian Institute of Technology (Summer 2014)
   * Photovoltaic Systems
+  
+  
+International Experience
+======
+* University of Washington, Seattle, WA, USA (2019, 2 months)
+  * Research visit to work with Prof. Abigail Swann
+  * Topic: How plant physiological changes in reponse to CO_2 influence tropical precipitation change over land 
+  
+* University of Gothenburg, Sweden (2015/2016, 4 months)
+  * ERASMUS exchange semester
+  * Physical Oceanography
+  * Project with Dr. Torsten Linders, including short research cruise in the Kosterhavet area
+  * Topic: Laser In Situ Scattering and Transmissiometry - Theory, Experiments and Field Measurements with the LISST-100X
+
 
 Skills
 ======
@@ -45,22 +59,5 @@ Skills
 * Organisation
   * Group meetings 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 
