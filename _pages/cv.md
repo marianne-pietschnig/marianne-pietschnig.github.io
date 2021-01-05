@@ -43,7 +43,7 @@ International Experience
 
 Skills
 ======
-* Computational:
+* Computational
   * Python, NCL, Fortran
   * Linux, Mac, Windows
   * Github
