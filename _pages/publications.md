@@ -26,12 +26,3 @@ author_profile: true
 **Pietschnig, M.**, Swann, A. L. S., Lambert, F. H. and Vallis, G. K.: The response of tropical rainfall to reduced evapotranspiration is connected to continental extent
 
 
-
-
-
-
-{% if author.googlescholar %}
-  You can also find my publications on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-
