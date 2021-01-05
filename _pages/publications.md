@@ -7,7 +7,7 @@ author_profile: true
 
 # Peer-reviewed publications
 
-[Laguë, M. M., **Pietschnig, M.**, Ragen, S., Smith, T. A. and Battisti, D. S. (2020)](https://doi.org/10.31223/osf.io/qjne3): Terrestrial evaporation and global climate: lessons from Northland, a planet with hemispheric continent. *Journal of Climate*, in press.
+[Laguë, M. M., **Pietschnig, M.**, Ragen, S., Smith, T. A. and Battisti, D. S. (2020)](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-20-0452.1/JCLI-D-20-0452.1.xml?tab_body=pdf): Terrestrial evaporation and global climate: lessons from Northland, a planet with hemispheric continent. *Journal of Climate*, in press.
 
 [**Pietschnig, M.**, Lambert, F. H., Saint-Lu, M., and Vallis, G. K. (2019)](https://doi.org/10.1029/2019GL084441): The presence of Africa and limited soil moisture contribute to future drying of South America. *Geophys. Res. Lett.*, 46, 12445–12453
 
