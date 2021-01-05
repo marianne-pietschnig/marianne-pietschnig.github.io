@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Marianne Pietschnig"
   avatar           : "profile.png"
-  bio              : "Researcher at University of Oslo. Cloud and aerosol feedbacks and their impact on climate"
-  location         : "Oslo"
+  bio              : "Researcher on cloud and aerosol feedbacks, tropical precipitation and idealised modelling"
+  # location         : "Oslo"
   employer         : "University of Oslo"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=_oVQ2xoAAAAJ"
