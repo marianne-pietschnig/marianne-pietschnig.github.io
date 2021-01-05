@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Mathematics, University of Exeter, UK (2020)
+* MSc in Environmental Sciences, University of Vienna, Austria (2016)
+* BSc in Physics, University of Vienna, Austria (2014)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Researcher at the University of Oslo (current)
+  * Cloud and aerosol feedbacks and their influence on climate change projections
   
+* Postdoctoral Research Fellow at the University of Exeter (08/2020 - 01/2021)
+  * Impact of land-surface hydrology on the South East Asian monsoon
+
+* Internship at the Austrian Institute of Technology (Summer 2014)
+  * Photovoltaic Systems
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational:
+  * Python, NCL, Fortran
+  * Linux, Mac, Windows
+  * Github
+  * Latex, Microsoft Office, Open Office
+  * Inkscape 
+  
+* Language
+  * German (Native language)
+  * English (CAE Level C2)
+  * French (Basic)
+  * Norwegian (Beginner)
+  
+* Organisation
+  * Group meetings 
 
 Publications
 ======
@@ -54,6 +63,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
