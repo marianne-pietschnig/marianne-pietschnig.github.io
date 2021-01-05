@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* PhD in Mathematics, University of Exeter, UK (2020)
+* **PhD in Mathematics**, University of Exeter, UK (2020)
   * Thesis: Understanding changes in tropical precipitation due to climate change
   * Supervisors: Prof. Hugo Lambert, Prof. Geoffrey Vallis
-* MSc in Environmental Sciences, University of Vienna, Austria (2016)
+* **MSc in Environmental Sciences**, University of Vienna, Austria (2016)
   * Thesis: Volume and Energy Fluxes in the Arctic Ocean - A comparison between an ocean reanalysis and in-situ observations
   * Supervisor: Prof. Leopold Haimberger
-* BSc in Physics, University of Vienna, Austria (2014)
+* **BSc in Physics**, University of Vienna, Austria (2014)
   * Thesis: Global Dimming and Brightening
   * Supervisor: Prof. Regina Hitzenberger
 
