@@ -47,6 +47,41 @@ International Experience
   * Topic: Laser In Situ Scattering and Transmissiometry - Theory, Experiments and Field Measurements with the LISST-100X
 
 
+Teaching
+======
+
+* Python Programming for Natural Science Students, University of Exeter (2018/2019)
+  * Postgraduate Teaching Assistant 
+  * Assisting undergraduate students with learning Python
+  * Short lecture 
+  * Marking of coursework
+
+* Mathematics of Climate Change, University of Exeter (2017/2018)
+  * Postgraduate Teaching Assistant
+  * Marking of coursework 
+
+* Introduction to Physics, University of Vienna (2012)
+  * Tutor 
+  * Assisting students in solving problem sets
+  * Marking of coursework 
+  
+  
+Presentations
+=======
+
+* University of Bristol, UK (2020)
+  * Invited seminar for the Geographical Sciences Bristol Research Initiative for the Dynamic Global Environment
+
+* University of Washington, Seattle, UW, USA (2019)
+  * Seminar in Atmospheric and Climate Dynamics
+  
+* EGU General Assembly, Vienna, Austria (2018)
+  * Poster presentation
+  
+* Arctic Science Summit Week, Prague, Czech Republic (2017)
+  * Oral presentation
+
+
 Skills
 ======
 * Computational
