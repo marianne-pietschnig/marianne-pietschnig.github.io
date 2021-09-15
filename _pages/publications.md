@@ -7,7 +7,7 @@ author_profile: true
 
 # Peer-reviewed publications
 
-[**Pietschnig, M.**, Swann, A. L. S., Lambert, F. H. and Vallis, G. K. (2021)](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0195.1/JCLI-D-21-0195.1.xml): The response of tropical rainfall to reduced evapotranspiration is connected to continental extent. *Journal of Climate*
+[**Pietschnig, M.**, Swann, A. L. S., Lambert, F. H. and Vallis, G. K. (2021)](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0195.1/JCLI-D-21-0195.1.xml): Response of tropical rainfall to reduced evapotranspiration depends on continental extent. *Journal of Climate*
 
 [Laguë, M. M., **Pietschnig, M.**, Ragen, S., Smith, T. A. and Battisti, D. S. (2020)](https://journals.ametsoc.org/view/journals/clim/34/6/JCLI-D-20-0452.1.xml): Terrestrial Evaporation and Global Climate: Lessons from Northland, a Planet with a Hemispheric Continent. *Journal of Climate*, 34, 6, 2253–2276
 
